@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LVHxT+t6pnJDVcPDSn1wzAx0bN7mfjx5SCM/vXAWTfncWZQXsXpKTaGyMp1uHSNr3iyUnn392AOEjdM0EuraQ==",
+  "success": true,
+  "projectFilePath": "D:\\DaMainFolder\\School\\Not\\SYP\\Projekt\\ClientHolterPrototyp\\HolterPrototypApi\\HolterPrototypApi\\HolterPrototypApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikey\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
